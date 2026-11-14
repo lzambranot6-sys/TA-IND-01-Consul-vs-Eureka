@@ -10,3 +10,4 @@
   trae el proyecto de Spring Boot, así no tengo que instalar Maven. LaTeX lo
   instalare mañana.
 - **Tiempo dedicado:** 30 min
+- Ademas se levanto el clúster y vi que server3 es el lider.
