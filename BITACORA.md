@@ -12,6 +12,7 @@
 - **Tiempo dedicado:** 30 min
 - Ademas se levanto el clúster y vi que server3 es el lider.
 
-## 2026-11-14 (sabado)
+## 2026-11-14 (sábado)
 - **Experimento 1:** caída del líder en Consul y reelección con Raft.
+- **Experimento 2:** pérdida de quórum en Consul y lecturas stale
 - No tengo luz xd.
