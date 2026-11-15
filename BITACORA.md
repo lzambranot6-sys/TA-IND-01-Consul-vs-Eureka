@@ -11,3 +11,7 @@
   instalare mañana.
 - **Tiempo dedicado:** 30 min
 - Ademas se levanto el clúster y vi que server3 es el lider.
+
+## 2026-11-14 (sabado)
+- **Experimento 1:** caída del líder en Consul y reelección con Raft.
+- No tengo luz xd.
