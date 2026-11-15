@@ -5,7 +5,7 @@
 **Asignatura:** Sistemas Distribuidos
 **Actividad:** TA-IND-01 — Informe Académico Individual
 **Estudiante:** Leonel Leonidas Zambrano Triviño
-**Paralelo:** XXXX
+**Paralelo:** B
 **Fecha de entrega:** 15 de noviembre de 2026
 
 ---
