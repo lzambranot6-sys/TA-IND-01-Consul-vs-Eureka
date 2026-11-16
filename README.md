@@ -10,14 +10,13 @@
 
 ---
 
-## 🎥 Video de sustentación
+## Video de sustentación
 
-**Enlace:** PEGAR_AQUI_EL_LINK_DEL_VIDEO
-
+**Enlace:** https://youtu.be/gbmRAb0Qs1k
 
 ---
 
-## 📄 Descripción
+## Descripción
 
 Análisis crítico de **HashiCorp Consul** (sistema de descubrimiento de servicios) comparado con **Netflix Eureka**, aplicando los conceptos de la Unidad 1: transparencias de distribución, teorema CAP y PACELC, modelos de comunicación y tolerancia a fallos.
 
@@ -28,7 +27,7 @@ El análisis se respalda con un clúster local de 3 servers de Consul levantado 
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```
 TA-IND-01-Consul-vs-Eureka/
@@ -50,7 +49,7 @@ TA-IND-01-Consul-vs-Eureka/
 
 ---
 
-## 🛠️ Compilación del informe
+## Compilación del informe
 
 ### Dependencias
 
@@ -83,7 +82,7 @@ El resultado es `latex/main.pdf`.
 
 ---
 
-## 🧪 Reproducir el experimento
+## Reproducir el experimento
 
 ### Requisitos
 
@@ -132,6 +131,6 @@ Los resultados completos y su interpretación están en `experimento/consul/`.
 
 ---
 
-## 🤖 Uso de inteligencia artificial
+## Uso de inteligencia artificial
 
 El uso de IA está declarado en la sección *"Declaración de uso de inteligencia artificial"* del informe (`latex/main.pdf`).
